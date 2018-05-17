@@ -1,0 +1,31 @@
+{
+  "name": "geiser",
+  "version": "1.0.0",
+  "description": "pratica da steam",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "huebr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateusRocha000/cefet-web-geiser.git"
+  },
+  "keywords": [
+    "geiser"
+  ],
+  "author": "Mateus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MateusRocha000/cefet-web-geiser/issues"
+  },
+  "homepage": "https://github.com/MateusRocha000/cefet-web-geiser#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "hbs": "^4.0.1",
+    "underscore": "^1.9.0"
+  }
+}
