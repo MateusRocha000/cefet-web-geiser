@@ -17,15 +17,15 @@
     "geiser"
   ],
   "author": "Mateus",
-  "license": "ISC",
+  "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/MateusRocha000/cefet-web-geiser/issues"
   },
   "homepage": "https://github.com/MateusRocha000/cefet-web-geiser#readme",
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "~4.16.3",
     "fs": "0.0.1-security",
-    "hbs": "^4.0.1",
-    "underscore": "^1.9.0"
+    "hbs": "~4.0.1",
+    "underscore": "~1.9.0"
   }
 }
